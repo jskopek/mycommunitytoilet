@@ -16,3 +16,14 @@ fields:
   label: Date
   config:
     required: true
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - post
+    - home
+  label: Layout
+  name: layout
+  default: post
