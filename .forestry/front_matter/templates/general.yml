@@ -27,3 +27,5 @@ fields:
   label: Layout
   name: layout
   default: post
+pages:
+- _posts/forestry-test-post.md
