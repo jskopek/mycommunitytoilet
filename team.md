@@ -1,8 +1,8 @@
 ---
-title: Science
+title: Team
 layout: page
 date: 2018-09-14 00:00:00 +0000
 categories: []
-permalink: "/science/"
+permalink: "/team/"
 ---
-Science content will go here
+Team content will go here
