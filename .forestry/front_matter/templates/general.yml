@@ -28,6 +28,7 @@ fields:
   name: layout
   default: post
 pages:
+- hellotomorrow.md
 - science.md
 - timeline.md
 - _posts/forestry-test-post.md
