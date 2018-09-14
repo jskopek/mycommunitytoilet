@@ -28,5 +28,6 @@ fields:
   name: layout
   default: post
 pages:
+- science.md
 - timeline.md
 - _posts/forestry-test-post.md
