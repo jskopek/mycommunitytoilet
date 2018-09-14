@@ -28,4 +28,5 @@ fields:
   name: layout
   default: post
 pages:
+- timeline.md
 - _posts/forestry-test-post.md
