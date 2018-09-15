@@ -28,6 +28,7 @@ fields:
   name: layout
   default: post
 pages:
+- video.md
 - hellotomorrow.md
 - science.md
 - timeline.md
