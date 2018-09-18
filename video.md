@@ -7,4 +7,4 @@ categories: []
 ---
 # MYCOmmunity Toilet VIDEO for Hello Tomorrow
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/f2JWn3ndUZs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[watch?v=f2JWn3ndUZs&feature=youtu.be](https://www.youtube.com/watch?v=f2JWn3ndUZs&feature=youtu.be "watch?v=f2JWn3ndUZs&feature=youtu.be")
