@@ -6,6 +6,5 @@ categories: []
 permalink: "/science/"
 
 ---
-Science content will go here
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9reSQXZy77U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](/uploads/micro_urine-01.png)
