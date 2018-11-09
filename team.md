@@ -6,4 +6,4 @@ categories: []
 permalink: "/team/"
 
 ---
-![](/uploads/Copy of MYCOmmunity_toilet_slidedeck.svg)
+![PhD candidate - R&D](/uploads/Asset 2.png "Kateryna Ievdokymenko")![](/uploads/Asset 5.png)![](/uploads/Asset 8.png)![](/uploads/Asset 7.png)![](/uploads/Asset 6.png)![](/uploads/Asset 1-1.png)![](/uploads/Asset 4.png)![](/uploads/Asset 3.png)
