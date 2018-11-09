@@ -6,4 +6,4 @@ categories: []
 permalink: "/team/"
 
 ---
-![](/uploads/Copy of MYCOmmunity_toilet_slidedeck.svg)![](/uploads/Copy of MYCOmmunity_toilet_slidedeck.svg)![](/uploads/Copy of MYCOmmunity_toilet_slidedeck.svg)
+![](/uploads/Copy of MYCOmmunity_toilet_slidedeck.svg)![](/uploads/Copy of MYCOmmunity_toilet_slidedeck.svg)![](/uploads/Copy of MYCOmmunity_toilet_slidedeck.svg)![](/uploads/Copy of MYCOmmunity_toilet_slidedeck.svg)
