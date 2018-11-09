@@ -29,7 +29,6 @@ fields:
   default: post
 pages:
 - video.md
-- hellotomorrow.md
 - science.md
 - timeline.md
 - _posts/forestry-test-post.md
