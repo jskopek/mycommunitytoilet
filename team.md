@@ -1,9 +1,14 @@
 ---
 title: Team
 layout: page
-date: 2018-09-14 00:00:00 +0000
-categories: []
+date: 2018-09-14T00:00:00.000+00:00
+categories:
+- team
 permalink: "/team/"
 
 ---
-![PhD candidate - R&D](/uploads/Asset 2.png "Kateryna Ievdokymenko")![](/uploads/Asset 5.png)![](/uploads/Asset 8.png)![](/uploads/Asset 7.png)![](/uploads/Asset 6.png)![](/uploads/Asset 1-1.png)![](/uploads/Asset 4.png)![](/uploads/Asset 3.png)
+![](/uploads/6 team-06.svg)
+
+#### Local mycology practitioner Farhad Zahir joins the community!
+
+MYCOmmunity Toilet is now partnering with LiveSpore Supply in Vancouver for all our mycelium growing. We welcome Farhad Zahir to our collaborative community here in Vancouver.
