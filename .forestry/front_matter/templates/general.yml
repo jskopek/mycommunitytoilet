@@ -27,6 +27,7 @@ fields:
   name: layout
   default: post
 pages:
+- _posts/mushrooms-are-also-profitable-in-bc.md
 - video.md
 - science.md
 - timeline.md
