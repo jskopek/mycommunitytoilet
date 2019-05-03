@@ -25,6 +25,6 @@ _Again, to drive this point home: GLOBAL FARMING only uses about **1/9th** of th
 
 Given that COSPAR, the Committee on Space Research [recommends](http://adsabs.harvard.edu/abs/2006cosp...36..132K) for NASA to use the same biologically-regenerative, _Hyper-Thermophilic Composting process_ employed by both MYCOmmunity Toilet (soon) and [SOIL]() (presently) to grow crops while terraforming Mars, why don't we do the same on Planet Earth?
 
-Why do we not make the immediate switch to using our "black gold" or "humanure" as the source of fecundity for our farming productions, and eliminate the need for global fertilizer production and trade in a single year?
+Why do we not make the immediate switch to using our "black gold" or "[humanure](https://humanurehandbook.com/)" as the source of fecundity for our farming productions, and eliminate the need for global fertilizer production and trade in a single year?
 
 It is time we revolutionized sanitation and globally scale the MYCOmmunity Toilet project to have every community on earth growing their own toilets to recycle their waste into healthy fertilizer for farming.
