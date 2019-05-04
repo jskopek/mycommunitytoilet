@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MYCOmmunity Toilet
-email: valerinechandra@gmail.com
+email: mycommunitytoilet@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Description will go here.
+  MYCOmmunity Toilet is a sanitation revolution. Bringing toilets to the 4.5 Billion People who do not have safe sanitation means we need to make toilets cheaply, and safer. Our affordable, decentralized and circlar toilet redesign will enable NGOs and governments globally to provide dignified, healthy toilets for all people. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mycommunitytoilet.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
